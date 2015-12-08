@@ -39,22 +39,23 @@ $%(sum)s
 # Take over form
 ;Enter your own amount
 Enter your own amount
-
+أدخل المبلغ الخاص بك
 
 # Take over form: radio button for monthly contributions
 ;Monthly
 Monthly
-
+شهريا
 
 # Take over form: radio button for one-time contributions
 ;One-time
 One-time
+مرة واحدة
 
 
 # Take over form: button to submit the donation form
 ;Donate Now
 Donate Now
-
+تبرع الآن
 
 ;Home of the Mozilla Project
 الصفحة الرئيسية لمشروع موزيلا
@@ -87,7 +88,7 @@ Donate Now
 
 ;Donate to Mozilla,<br> the non-profit behind Firefox.
 Donate to Mozilla,<br> the non-profit behind Firefox.
-
+التبرع لموزيلا، <br> غير هادفة للربح وراء فايرفوكس
 
 ;Our year-end<br> fundraiser ends Dec 31.
 Our year-end<br> fundraiser ends Dec 31.
@@ -145,7 +146,7 @@ Shop for t-shirts, hoodies, hats<br> and more at Mozilla Gear.
 
 ;Shop now
 Shop now
-
+تسوق الآن
 
 ;Introducing<br> the new Webmaker
 نُقدِّم<br>  Webmaker الجديد
